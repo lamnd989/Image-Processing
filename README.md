@@ -13,7 +13,7 @@
 In the present scenario due to Covid-19, there is no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of __‘with_mask’__ images has made this task more cumbersome and challenging. 
 
 
-<p align="center"><img src="https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/lamnd2707/Image-Processing/blob/7585c6bd499d7160196a8651c7737bf1ef02da15/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.jpg" width="700" height="400"></p>
 
 
 ## :warning: TechStack/framework used
@@ -80,12 +80,12 @@ $ python3 detect_mask_video.py
 ```
 ## :key: Results
 
-#### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
+#### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow==1.15.0</code>
 
-![](https://github.com/lamnd2707/Image-Processing/tree/main/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+![](https://github.com/lamnd2707/Image-Processing/blob/main/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
 
 #### We got the following accuracy/loss training curve plot
-![](https://github.com/lamnd2707/Image-Processing/plot.png)
+![](https://raw.githubusercontent.com/lamnd2707/Image-Processing/main/plot.png?token=AMF5J5ZQ7OZX7MODWQRVBRK77QM56)
 
 ## Streamlit app
 
@@ -109,4 +109,4 @@ $ streamlit run app.py
 
 
 ## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://facebook.com/phonglam2707) repository. If you already found a solution to your problem, **I would love to review your pull request**! 

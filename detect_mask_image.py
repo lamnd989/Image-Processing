@@ -100,6 +100,9 @@ def mask_image():
 	# show the output image
 	cv2.imshow("Output", image)
 	cv2.waitKey(0)
+	# Saving the image 
+	cv2.imwrite("images/out.jpg", image) 
+
 	
 if __name__ == "__main__":
 	mask_image()
