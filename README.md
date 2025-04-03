@@ -5,7 +5,7 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Live Demo](https://github.com/lamnd2707/Image-Processing/blob/main/Readme_images/Demo.gif)
+![Live Demo](https://github.com/lamnd198/Image-Processing/blob/main/Readme_images/Demo.gif)
 
 
 
@@ -13,7 +13,7 @@
 In the present scenario due to Covid-19, there is no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of __‘with_mask’__ images has made this task more cumbersome and challenging. 
 
 
-<p align="center"><img src="https://github.com/lamnd2707/Image-Processing/blob/main/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.jpg?raw=true" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/lamnd198/Image-Processing/blob/main/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.jpg?raw=true" width="700" height="400"></p>
 
 
 ## :warning: TechStack/framework used
@@ -49,7 +49,7 @@ All the dependencies and required libraries are included in the file <code>requi
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/lamnd2707/Image-Processing.git
+$ git clone https://github.com/lamnd198/Image-Processing.git
 ```
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'test'
@@ -82,10 +82,10 @@ $ python3 detect_mask_video.py
 
 #### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow==1.15.0</code>
 
-![](https://github.com/lamnd2707/Image-Processing/blob/main/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+![](https://github.com/lamnd198/Image-Processing/blob/main/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
 
 #### We got the following accuracy/loss training curve plot
-![](https://raw.githubusercontent.com/lamnd2707/Image-Processing/main/plot.png?token=AMF5J5ZQ7OZX7MODWQRVBRK77QM56)
+![](https://raw.githubusercontent.com/lamnd198/Image-Processing/main/plot.png?token=AMF5J5ZQ7OZX7MODWQRVBRK77QM56)
 
 ## Streamlit app
 
@@ -109,4 +109,4 @@ $ streamlit run app.py
 
 
 ## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://facebook.com/phonglam2707) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://facebook.com/LamNguyen198) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
